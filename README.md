@@ -30,10 +30,3 @@ Um repositório compartilhado para futuros projetos e collebs
 
 > [!NOTE]
 > O Pull Request provavelmente vai demorar um pouco para ser adicionado ao repositório. Tenha paciência!
-
-
-
-### LINKS DIRETOS
-|||
-|-----|-----|
-|1|[Link Teste]()|
